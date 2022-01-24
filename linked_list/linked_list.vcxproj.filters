@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="linked_list_Template.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="int_linked_list.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
